@@ -1,1 +1,8 @@
-/* Start coding here */
+@font-face {
+  font-family: iannnnnCPU;
+  src: url(/ex2-web-fonts/fonts/);
+}
+
+body {
+  font-family: iannnnnCPU;
+}
